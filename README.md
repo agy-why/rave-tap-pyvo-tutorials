@@ -1,6 +1,6 @@
 # Tutorial
 
-[tutorials.ipynb](tutorials.ipynb): [![run it online](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agy-why/rave-tap-pyvo-tutorials/master?filepath=tutorials.ipynb)
+[tutorials.ipynb](https://nbviewer.jupyter.org/github/agy-why/rave-tap-pyvo-tutorials/blob/master/tutorials.ipynb): [![run it online](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agy-why/rave-tap-pyvo-tutorials/master?filepath=tutorials.ipynb)
 
 # Examples 
 
