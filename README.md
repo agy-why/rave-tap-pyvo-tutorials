@@ -21,3 +21,18 @@ A few scripts to access data via the TAP interface of `rave-survey.org` with pyv
 
 replace the `<your-token>` with your authentification Token for `rave-survey.org` and run the
 scripts as `python <script>.py`.
+
+## Remarks
+
+The print statements in the tutorials are only for education purposes.
+
+## Contributions
+
+* Yori Fournier
+* Harry Enke
+* Anastasia Galkin
+* Arman Khalatyan
+
+## LICENCE
+
+Public Domain - CC0

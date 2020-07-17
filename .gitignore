@@ -1,0 +1,6 @@
+.ipynb_checkpoints*
+url_job.txt
+urls_job.txt
+fits*
+*.pyc
+*~

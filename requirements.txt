@@ -1,0 +1,3 @@
+astropy==3.2.3
+pandas
+pyvo==1.0
