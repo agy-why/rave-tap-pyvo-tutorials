@@ -6,7 +6,7 @@
 
 A few scripts to access data via the TAP interface of `rave-survey.org` with pyvo
 
-* [rave-tutorial-sync.py](rave-tutorial-sync.py) : submit and retrieve a short query
+* [rave-tutorial-sync-job.py](rave-tutorial-sync-job.py) : submit and retrieve a short query
 * [rave-tutorial-async-60s.py](rave-tutorial-async-60s.py) : submit and retrieve an asynchrone query to the 60 seconds queue
 * [rave-tutorial-submit-30m.py](rave-tutorial-submit-30m.py) : submit an asynchrone query to the 30 minutes queue
 * [rave-tutorial-retrieve-30m.py](rave-tutorial-retrieve-30m.py) : retrieve an asynchrone query from the 30 minutes queue
